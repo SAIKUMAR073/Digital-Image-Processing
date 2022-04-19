@@ -13,5 +13,12 @@ Perform the task and display the output images.
 Task-->Read a color image,convert the color image to gray scale and dispaly both images.\
 Make some part of that gray scale image total black and display it.Now subtract this to images andd display output image.
 ## ClassAssignment3
-Task-Create two images one with a white circle at center and another with a white rentangle at center and perform\
+Task-->Create two images one with a white circle at center and another with a white rentangle at center and perform\
 all logical gate operations on both images and display the output images. 
+## ClassAssignment4
+Task---> Read a color image and display its reddish,greenisg and bluish image.
+## ClassAssignment5
+Task-->Read a color image,convert the color image to gray scale and perform histogram equalization by algorithm discussed in class(i.e of wikipedia site).
+also check with direct function avaialable.
+## ClassAssignment6
+
