@@ -21,4 +21,20 @@ Task---> Read a color image and display its reddish,greenisg and bluish image.
 Task-->Read a color image,convert the color image to gray scale and perform histogram equalization by algorithm discussed in class(i.e of wikipedia site).
 also check with direct function avaialable.
 ## ClassAssignment6
+Task-->Read a color image,convert the color image to gray scale and do contrast maniplution.\
+display output images.\
+-----------------Contrast Manipulation-------------------\
+to increase contrast we multiple image with a constant, greater than one.\
+to decrease contrast we multiple image with a constant, lesser than one.\
+## ClassAssignment7
+---------------------Bit Plane Slicing--------------------------\
+Bit plane slicing is a method of representing an image with one or more bits of the byte used for each pixel. One can use only MSB to represent the pixel, which reduces the original gray level to a binary image. \
+The three main goals of bit plane slicing is:\
+--Converting a gray level image to a binary image.\
+--Representing an image with fewer bits and corresponding the image to a smaller size\
+--Enhancing the image by focussing.
+## ClassAssignment8
+-->Contrast maniplulation of the Color image
+## ClassAssignment9
+-->Shannon Fano Coding : Shannon Fano Algorithm is an entropy encoding technique for lossless data compression of multimedia.it assigns a code to each symbol based on their probabilities of occurrence. It is a variable-length encoding scheme, that is, the codes assigned to the symbols will be of varying length. 
 
