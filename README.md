@@ -39,4 +39,7 @@ The three main goals of bit plane slicing is:\
 -->Shannon Fano Coding : Shannon Fano Algorithm is an entropy encoding technique for lossless data compression of multimedia.it assigns a code to each symbol based on their probabilities of occurrence. It is a variable-length encoding scheme, that is, the codes assigned to the symbols will be of varying length. 
 ## ClassAssignment10
 -->Huffman coding is a lossless data compression technique. Huffman coding is based on the frequency of occurrence of a data item i.e. pixel in images. The technique is to use a lower number of bits to encode the data in to binary codes that occurs more frequently. It is used in JPEG files.
+## ClassAssignment11
+-------------------------Histogram Streching---------------------------------------------
+-->There are two methods of enhancing contrast. The first one is called Histogram stretching that increase contrast. 
 
