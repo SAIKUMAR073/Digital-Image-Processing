@@ -45,4 +45,6 @@ The three main goals of bit plane slicing is:\
 ## ClassAssignment12
 ------------------------Histogram Specification--------------------------------------------
 -->In image processing, histogram matching or histogram specification is the transformation of an image so that its histogram matches a specified histogram.
-
+## ClassAssignment13
+------------------------WaterMarking-------------------------
+A covert watermarking procedure involves the addition of a (diffused) watermark to a host image with a very low watermark-to-signal ratio,
