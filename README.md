@@ -42,4 +42,7 @@ The three main goals of bit plane slicing is:\
 ## ClassAssignment11
 -------------------------Histogram Streching---------------------------------------------
 -->There are two methods of enhancing contrast. The first one is called Histogram stretching that increase contrast. 
+## ClassAssignment12
+------------------------Histogram Specification--------------------------------------------
+-->In image processing, histogram matching or histogram specification is the transformation of an image so that its histogram matches a specified histogram.
 
